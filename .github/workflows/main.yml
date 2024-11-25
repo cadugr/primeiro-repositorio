@@ -24,4 +24,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: "Veriricação da versão do NodeJS atual"
-      run: node --version
+        run: node --version
